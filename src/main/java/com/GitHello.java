@@ -8,5 +8,6 @@ public class GitHello {
         System.out.println("hello git1");
         System.out.println("push");
         System.out.println("pull localhost");
+        System.out.println("localhost push");
     }
 }
