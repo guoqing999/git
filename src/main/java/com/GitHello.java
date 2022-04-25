@@ -7,6 +7,6 @@ public class GitHello {
         System.out.println("hello git");
         System.out.println("hello git1");
         System.out.println("push");
-        System.out.println("pull");
+        System.out.println("pull localhost");
     }
 }
